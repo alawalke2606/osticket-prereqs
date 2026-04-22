@@ -44,9 +44,17 @@ Extraced osTicket zipfile to desktop.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="725" height="584" alt="image" src="https://github.com/user-attachments/assets/9d01a257-7372-4278-b4f9-8b48e4a8dfd0" /> <img width="1917" height="1039" alt="image" src="https://github.com/user-attachments/assets/6649c07d-8475-40ef-94de-9dfaf8d6f77d" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Installed the IIS server and verified that it was working correctly.
+</p>
+<br />
+
+<p>
+<img width="1903" height="1031" alt="image" src="https://github.com/user-attachments/assets/df0c9c35-d3ff-41f7-b47d-d5080a642d2e" /> <img width="1911" height="1028" alt="image" src="https://github.com/user-attachments/assets/41a5e91f-1a04-426f-b077-7960d7a73696" />
+</p>
+<p>
+Installed the PHP Manager and Rewrite module for osTicket.
 </p>
 <br />
