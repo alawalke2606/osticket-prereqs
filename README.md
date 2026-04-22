@@ -12,6 +12,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Internet Information Services (IIS)
+- mySQL
 
 <h2>Operating Systems Used </h2>
 
@@ -22,8 +23,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Item 1-Create VMs in Azure
 - Item 2-Download OS-ticket
 - Item 3-Create IIS Server
-- Item 4-
-- Item 5
+- Item 4-Create mySQL server
+  
 
 <h2>Installation Steps</h2>
 
