@@ -40,7 +40,7 @@ Created Windows 10 VM in Azure that will be the client machine for the osTicket 
 <img width="1919" height="1037" alt="image" src="https://github.com/user-attachments/assets/116bd04c-bdcd-4e5a-8156-73dda107ae6a" />
 </p>
 <p>
-Extraced osTicket zipfile to desktop.
+Downloaded osTicket zipfile. Extraced osTicket zipfile to desktop. 
 </p>
 <br />
 
