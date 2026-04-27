@@ -32,7 +32,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img width="1915" height="920" alt="image" src="https://github.com/user-attachments/assets/a6d07d39-ae4c-4b60-a512-f7cee0771fdf" />
 </p>
 <p>
-Created Windows 10 VM in Azure that will be the client machine for the osTicket system. 
+Created Windows 10 VM in Azure that will be the client machine for the osTicket system. For detailed tutorial on VM creation see https://github.com/alawalke2606/create-vms/blob/main/README.md
 </p>
 <br />
 
